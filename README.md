@@ -18,4 +18,4 @@ Contains:
 # Tools/Technologies used :
 HTML, CSS, JavaScript, JQuery, GoogleFontsIcons
 
-![demo.gif](https://sarita87das.github.io/hw5/)
+![demo.gif](https://github.com/sarita87das/Workday-scheduler/blob/master/workday_scheduler.gif)
