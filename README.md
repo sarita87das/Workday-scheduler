@@ -8,12 +8,12 @@ One Javascript Page
 
 Contains:
 
-*  * Variables, including arrays and time conversion 
-*  * Event listeners 
-*  * if/else if statements
-*  * For Loops
-*  * Functions 
-*  * Local Storage set and get
+   # Variables, including arrays and time conversion 
+   # Event listeners 
+   # if/else if statements
+   # For Loops
+   # Functions 
+   # Local Storage set and get
 
 # Tools/Technologies used :
 HTML, CSS, JavaScript, JQuery, GoogleFontsIcons
